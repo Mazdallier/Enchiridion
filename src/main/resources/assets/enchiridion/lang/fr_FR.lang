@@ -48,6 +48,7 @@ enchiridion.edit.shift=S'accroupir pour ouvrir en mode édition
 enchiridion.edit.save=Enregistrement auto lorsque vous fermez la GUI
 enchiridion.edit.create=Me cliquer-droit pour créer un nouveau livre
 enchiridion.jump=Sauter
+enchiridion.recipe=Recette
 enchiridion.book.new=Créer un nouveau livre
 enchiridion.searching=Recherches
 enchiridion.canvas=Le canvas.
